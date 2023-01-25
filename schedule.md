@@ -14,7 +14,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 11. [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html)
 12. PS3 Review, [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
 13. [Reshape](https://datascience.quantecon.org/pandas/reshape.html), [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
-14. Midterm Exam
+14. Midterm Exam - **February 15 2023**
 17. More examples of [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html), [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 18. PS4 review, [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html) continued, [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 19. [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html) continued, [Mapping](https://datascience.quantecon.org/applications/maps.html)
