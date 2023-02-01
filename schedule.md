@@ -32,6 +32,6 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 
 ## Problem sets and deadlines
 **Important:** work on the problem sets in the [course git repository](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets), not the ones from `quantecon.org`. The problem sets that appear in `lecture-datascience.notebooks/problem_sets` are not required for the course.
-1. [Problem set 1](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_1.ipynb) - **DUE Wednesday Jan 18 at 11:59pm**
-2. [Problem set 2](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_2.ipynb) - **DUE Monday Jan 30 at 11:59pm**
+1. [Problem set 1](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_1.ipynb) - ~~**DUE Wednesday Jan 18 at 11:59pm**~~
+2. [Problem set 2](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_2.ipynb) - ~~**DUE Monday Jan 30 at 11:59pm**~~
 3. [Problem set 3](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_2.ipynb) - **DUE Wednesday Feb 8 at 11:59pm**
