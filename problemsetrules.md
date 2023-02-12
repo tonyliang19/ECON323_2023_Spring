@@ -7,7 +7,7 @@ seem strict, standardization is a very useful habit to develop when coding and
 working with data. This is especially true when you’re collaborating with other
 people. We will deduct marks if these rules are not followed.
 ## Working Together
-**You must work on the problem sets in groups of two**. Failing to do so will result in a 20% deduction from your grade. Group members should work on the problems together or work
+**You are strongly recommended to work on the problem sets in groups of two**. Group members should work on the problems together or work
 on them individually and discuss after the fact. **The final submission should list
 both group members at the top, followed by a line outlining the contribution
 of each individual member to the final product.** Groups should not split the
