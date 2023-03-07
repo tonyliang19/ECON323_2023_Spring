@@ -13,7 +13,7 @@ We will accept a wide range of proposals on many different topics.  The key requ
 * Something that involves data and visualization
 * Practice of coding skills with Python (or another language if appropriate and approved by us)
 * If you can relate this to an Honours thesis/ECON490/etc. that is great. But you cannot simply submit your thesis to us. For example, you could take your thesis and do a nice visualization notebook to go with it.
-* You may work alone or with a single partner in a group of two. If you work in a team of two, the project must clearly delineate the contributions of each team member.
+* You may work in a group of up to four. If you work in a team of two, the project must clearly delineate the contributions of each team member.
 
 See [previous final projects](https://datascience.quantecon.org/theme/projects.html)
 
