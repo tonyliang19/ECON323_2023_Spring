@@ -34,3 +34,4 @@ Adjusted schedule as of 3/8/23:
 3. [Problem set 3](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_2.ipynb) - ~~**DUE Wednesday Feb 8 at 11:59pm**~~
 4. [Problem set 4](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_4.ipynb) - ~~**DUE Monday Mar 6 at 11:59pm**~~
 5. Final project proposal - **DUE Wednesday Mar 15 at 11:59**
+6. [Problem set 5](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_5.ipynb) - **DUE Wednesday Mar 22 at 11:59pm**
