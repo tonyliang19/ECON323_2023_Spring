@@ -87,6 +87,11 @@ Grading in this class will conform to VSE guidelines, which suggest a range of 7
 
 It is the policy of the VSE to report all violations of UBC’s standards for academic integrity to the office of the Dean of Arts. You are personally responsible for knowing the behaviours that are considered a violation of UBC’s policies for academic honesty found here: https://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,0. To help you understand these rules, every student in this course will complete a module on “Avoiding Academic Misconduct” in the first week of the term. Any student who violates the rules for academic conduct on submitted work will be given an automatic grade of zero on that component of the course. Further penalties may be levied by the President's Advisory Committee on Student Discipline. Those penalties might include a notation on your transcript indicating that you have committed an academic offence, failure of the course, and/or suspension from the university. You can see more on this process, including a complete list of annual academic discipline cases, here: https://universitycounsel.ubc.ca/homepage/guides-and-resources/discipline/. Speak to your instructor if you have any questions regarding the standard for academic integrity at UBC.
 
+Some examples of behavior that constitute academic misconduct include but **are *not* limited to**:
+- Accessing any resources during an exam that have not been explicitly allowed by the instructor
+- Having your friend sign you in for attendance (or vice versa, signing in your friend who is absent)
+- Copying code directly from anyone who is not part of your homework or project group
+
 ## VSE Policy Prohibiting the Hiring of Tutors:
 
 The Vancouver School of Economics expressly prohibits any student from hiring a tutor/editor to assist with any portion of written work or academic research. Violation of this rule will be treated as academic misconduct, and the student will face the same penalties as described above. If at any point you feel in need of additional writing support, please speak with your instructor and/or arrange for a writing consultation with UBC’s Centre for Writing and Scholarly Communication (https://writing.library.ubc.ca/).
