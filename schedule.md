@@ -19,7 +19,7 @@ Adjusted schedule as of 3/8/23:
 3. [Reshape](https://datascience.quantecon.org/pandas/reshape.html), [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
 4. More examples of [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html), [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 5. PS4 review, [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html) continued, [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
-6. [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html) continued, [Mapping](https://datascience.quantecon.org/applications/maps.html)
+6. [Visualization](https://datascience.quantecon.org/pandas/matplotlib.html) continued, [Mapping](https://datascience.quantecon.org/applications/maps.html)
 7. PS5 review, Overview of the rest of the lectures; [Regression](https://datascience.quantecon.org/applications/regression.html)
 8. [Regression](https://datascience.quantecon.org/applications/regression.html): LASSO, Ridge, Cross-validation
 9. [Classification](https://datascience.quantecon.org/applications/regression.html)
@@ -35,6 +35,6 @@ Adjusted schedule as of 3/8/23:
 4. [Problem set 4](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_4.ipynb) - ~~**DUE Monday Mar 6 at 11:59pm**~~
 5. Final project proposal - ~~**DUE Wednesday Mar 15 at 11:59**~~
 6. [Problem set 5](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_5.ipynb) - ~~**DUE Wednesday Mar 22 at 11:59pm**~~
-7. [Problem set 6](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_6.ipynb) - **DUE Tuesday Apr 11 at 11:59**
+7. [Problem set 6](https://github.com/doctor-phil/ECON323_2023_Spring/tree/master/problem_sets/problem_set_6.ipynb) - ~~**DUE Tuesday Apr 11 at 11:59**~~
 8. Final exam - **Wednesday April 19 at 3:30pm (Section 003) or 7:00pm (Section 004) in room Buchanan (BUCH) B126**
 9. [Final project](https://github.com/doctor-phil/ECON323_2023_Spring/blob/main/final_project.md) - **DUE Monday April 24 at 11:59pm**
